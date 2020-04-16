@@ -1,4 +1,4 @@
-[![GitHub](Images/LogoTitle.png)](https://github.com/pwujczyk/ProductivityTools.PSGetOneDriveDirectory/)
+[![GitHub](Images/LogoTitle_green_500px.png)](https://github.com/pwujczyk/ProductivityTools.PSGetOneDriveDirectory/)
 
  
  <p align="right" width="20px">
@@ -6,7 +6,7 @@
         <img src="Images/Powershell40px.png" />
     </a>
     <a href="http://www.productivitytools.tech/sql-commands/">
-        <img src="Images/ProductivityTools_green_40px_4.png" />
+        <img src="Images/ProductivityTools_green_40px_2.png" />
     <a>
          <a href="https://github.com/pwujczyk/ProductivityTools.PSSetLockScreen">
         <img src="Images/Github40px.png" />
