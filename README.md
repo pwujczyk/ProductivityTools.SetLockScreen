@@ -1,8 +1,8 @@
-[![GitHub](Images/LogoTitle_green_500px.png)](https://github.com/pwujczyk/ProductivityTools.PSGetOneDriveDirectory/)
+[![GitHub](Images/LogoTitle_green_500px.png)](http://productivitytools.tech/)
 
  
  <p align="right" width="20px">
-    <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSQLCommands/">
+    <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSetLockScreen/">
         <img src="Images/Powershell40px.png" />
     </a>
     <a href="http://www.productivitytools.tech/sql-commands/">
@@ -30,4 +30,6 @@ To install module use
 
 ```powershell
 Install-Module -Name ProductivityTools.PSSetLockScreen
-```ss
+```
+
+Module depends on **ProductivityTools.PSTestIfAdmin**, which is installed automatically after invoking above command. 
