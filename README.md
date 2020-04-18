@@ -1,5 +1,5 @@
 <!--PSProducvitityToolsLogo><-->
-[![ProducvitityTools](Images/LogoTitle_green_500px.png)](http://productivitytools.tech/)
+<!--[![ProducvitityTools](Images/LogoTitle_green_500px.png)](http://productivitytools.tech/)
 
 <!-- [![ProducvitityTools](Images/Powershell40px.png)](http://productivitytools.tech/)
 [![ProducvitityTools](Images/ProductivityTools_green_40px_2.png)](http://productivitytools.tech/)
@@ -16,7 +16,11 @@
         <img src="Images/Github_border_40px.png" />
     </a>
 </p>
-
+<p align="center" width="20px">
+    <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSetLockScreen/">
+        <img src="Images/LogoTitle_green_500px.png" />
+    </a>
+</p>
 
 <!--PSTitle><-->
 # Set-LockScreen
