@@ -1,21 +1,19 @@
- <p align="right" width="20px">
+ <p align="right">Category: PowerShell</p>
+ <p align="right">
     <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSetLockScreen/"><img src="Images/Powershell_border_40px.png" /></a>
     <a href="http://www.productivitytools.tech/sql-commands/"><img src="Images/ProductivityTools_green_40px_2.png" /><a> 
-    <a href="https://github.com/pwujczyk/ProductivityTools.PSSetLockScreen"><img src="Images/Github_border_40px.png" /></a>
+    <a href="https://www.github.com/pwujczyk/ProductivityTools.PSSetLockScreen"><img src="Images/Github_border_40px.png" /></a>
 </p>
-<p align="center" width="20px">
+<p align="center">
     <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSetLockScreen/">
         <img src="Images/LogoTitle_green_500px.png" />
     </a>
 </p>
 
-<!--PSTitle><-->
 # Set-LockScreen
-
-
 Module sets lock screen to chosen image. It also allows to change Lock screen if setting is managed by your company.
-<!--more-->
 
+<!--more-->
 ![Lock screen](Images/LockScreen.png)
 
 ```powershell
