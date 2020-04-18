@@ -7,13 +7,13 @@
  -->
  <p align="right" width="20px">
     <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSetLockScreen/">
-        <img src="Images/Powershell_Border_40px.png" />
+        <img src="Images/Powershell_border_40px.png" />
     </a>
     <a href="http://www.productivitytools.tech/sql-commands/">
         <img src="Images/ProductivityTools_green_40px_2.png" />
     <a>
          <a href="https://github.com/pwujczyk/ProductivityTools.PSSetLockScreen">
-        <img src="Images/Github_Border_40px.png" />
+        <img src="Images/Github_border_40px.png" />
     </a>
 </p>
 
