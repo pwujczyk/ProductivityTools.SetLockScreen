@@ -1,4 +1,5 @@
- <p align="right">Category: PowerShell</p>
+ <p align="right"><small align="right">Category: PowerShell</small></p>
+ 
  <p align="right">
     <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSetLockScreen/"><img src="Images/Powershell_border_40px.png" /></a>
     <a href="http://www.productivitytools.tech/sql-commands/"><img src="Images/ProductivityTools_green_40px_2.png" /><a> 
