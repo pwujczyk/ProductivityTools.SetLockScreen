@@ -1,4 +1,4 @@
- <p align="right"><small align="right">Category: PowerShell</small></p>
+ <p align="right"><small>Category: PowerShell</small></p>
  
  <p align="right">
     <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSetLockScreen/"><img src="Images/Powershell_border_40px.png" /></a>
