@@ -1,5 +1,4 @@
- <p align="right"><small>Category: PowerShell</small></p>
- 
+<!--Category:Powershell,SQL--> 
  <p align="right">
     <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSetLockScreen/"><img src="Images/Powershell_border_40px.png" /></a>
     <a href="http://www.productivitytools.tech/sql-commands/"><img src="Images/ProductivityTools_green_40px_2.png" /><a> 
@@ -12,6 +11,7 @@
 </p>
 
 # Set-LockScreen
+
 Module sets lock screen to chosen image. It also allows to change Lock screen if setting is managed by your company.
 
 <!--more-->
