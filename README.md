@@ -1,12 +1,12 @@
-<!--Category:Powershell,SQL--> 
+<!--Category:Powershell--> 
  <p align="right">
-    <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSetLockScreen/"><img src="Images/Powershell_border_40px.png" /></a>
-    <a href="http://www.productivitytools.tech/sql-commands/"><img src="Images/ProductivityTools_green_40px_2.png" /><a> 
-    <a href="https://www.github.com/pwujczyk/ProductivityTools.PSSetLockScreen"><img src="Images/Github_border_40px.png" /></a>
+    <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSetLockScreen/"><img src="http://cdn.productivitytools.tech/Images/General/Powershell_border_40px.png" /></a>
+    <a href="http://www.productivitytools.tech/sql-commands/"><img src="http://cdn.productivitytools.tech/Images/PT/ProductivityTools_green_40px_2.png" /><a> 
+    <a href="https://www.github.com/pwujczyk/ProductivityTools.PSSetLockScreen"><img src="http://cdn.productivitytools.tech/Images/General/Github_border_40px.png" /></a>
 </p>
 <p align="center">
     <a href="https://www.powershellgallery.com/packages/ProductivityTools.PSSetLockScreen/">
-        <img src="Images/LogoTitle_green_500px.png" />
+        <img src="http://cdn.productivitytools.tech/Images/PT/LogoTitle_green_500px.png" />
     </a>
 </p>
 
@@ -20,7 +20,7 @@ Module sets lock screen to chosen image. It also allows to change Lock screen if
 ```powershell
 Set-LockScreen -ImagePath D:\OneDrive\InitPC\JustDoThings.png -Verbose
 ```
-![PowerShell example](Images/Powershell.png)
+![Lock screen](Images/Powershell.png)
 
 To install module use 
 
@@ -30,7 +30,7 @@ Install-Module -Name ProductivityTools.PSSetLockScreen
 
 Script adds new node to regedit **PersonalizationCSP** which contains information where to found image displayed on lock screen.
 
-![Regedit](Images/Regedit.png)
+![Lock screen](Images/Regedit.png)
 
 Script copy chosen image to **C:\Windows\System32** path.
 
