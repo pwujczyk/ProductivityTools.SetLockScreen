@@ -2,4 +2,5 @@ cd $PSScriptRoot
 
 Import-Module ProductivityTools.PSSetLockScreen.psm1 -Force
 
-Set-LockScreen .\JustDoThings.png
+Set-LockScreen d:
+#Set-LockScreen .\Header.jpg

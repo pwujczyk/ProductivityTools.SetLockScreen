@@ -9,6 +9,11 @@ function Set-LockScreen{
 	)
 	Write-Verbose "Hello from SetLockScreen"
 	Write-Verbose "Image path provided by user: $ImagePath"
+	
+	if((Get-Item $ImagePath) -is [System.IO.DirectoryInfo])
+	{
+		throw "Only files"
+	}
 
 	if ($(Test-IfAdmin) -eq $false) {
 		throw "You are not admin, but you would like to make change to regedit and System32. Please run Powershell as Administrator"
