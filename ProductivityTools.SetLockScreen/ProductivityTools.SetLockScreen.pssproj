@@ -27,8 +27,8 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
-    <Compile Include="ProductivityTools.PSSetLockScreen.psd1" />
-    <Compile Include="ProductivityTools.PSSetLockScreen.psm1" />
+    <Compile Include="ProductivityTools.SetLockScreen.psd1" />
+    <Compile Include="ProductivityTools.SetLockScreen.psm1" />
     <Compile Include="Runner.ps1" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

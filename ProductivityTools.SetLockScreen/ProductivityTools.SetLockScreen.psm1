@@ -1,6 +1,4 @@
-<#
-	My Function
-#>
+
 function Set-LockScreen{
 
 	[cmdletbinding()]
